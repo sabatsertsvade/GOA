@@ -1,0 +1,1 @@
+print("deda-teona, mama-gaga, da-barbare")
